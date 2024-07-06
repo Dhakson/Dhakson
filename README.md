@@ -1,11 +1,11 @@
-# Olá!!! Sejam bem vindo(a)s ao meu Perfil GitHub 🖐
+# Olá!!! Sejam bem-vindos ao meu Repositório Pessoal 🖐
 
 ## Sobre mim 🚀
 Meu nome é Dhakson. Atualmente estou estudando no 2º Modúlo em Anelise e Desenvolvimento de Sistema e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
 
 [![Dhakson GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Dhakson&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-## Tecnologias que uso no meu dia 
+## Tecnologias
 
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
