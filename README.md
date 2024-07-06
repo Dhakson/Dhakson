@@ -1,11 +1,7 @@
 # Olá!!! Sejam bem vindo(a)s ao meu Perfil GitHub 🖐
 
-## Meu nome é Dhakson Barbosa 
-
-## Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhakson-barbosa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhakson.b/)
-
+## Sobre mim 🚀
+Meu nome é Dhakson. Atualmente estou estudando no 2º Modúlo em Anelise e Desenvolvimento de Sistema e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
 
 [![Dhakson GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Dhakson&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
@@ -17,5 +13,6 @@
  ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
  ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Sobre mim
-Eu sou estudante de Analise e Desenvolvimento de Sistemas pela Unicesumar, Atualmente estou focado em aprendizagem continuo como Backend.
+## Redes Sociais
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhakson-barbosa/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhakson.b/)
