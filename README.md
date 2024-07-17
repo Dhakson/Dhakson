@@ -6,9 +6,8 @@ Meu nome é Dhakson. Atualmente estou estudando no 2º Período em Anelise e Des
 [![Dhakson GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Dhakson&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" whidth="40" height="40" />
           
-
 
 
 ## Redes Sociais
