@@ -3,11 +3,9 @@
 ## Sobre mim 🚀
 Meu nome é Dhakson. Atualmente estou estudando no 2º Período em Anelise e Desenvolvimento de Sistema e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
 
-<div>
-<a href="https://github.com/Dhakson">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakson&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhakson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+![Dhakson's Stats](https://github-readme-stats.vercel.app/api?username=Dhakson&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![Dhakson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakson&theme=monokai&show_icons=true&hide_border=false&layout=compact)
 
 ## Ferramentas e Tecnologias
 <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" whidth="40" height="40" /><img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" whidth="40" height="40" /><img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" whidth="40" height="40"/>
