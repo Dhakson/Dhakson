@@ -8,7 +8,7 @@ Meu nome é Dhakson. Atualmente estou estudando no 2º Período em Anelise e Des
 ![Dhakson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakson&theme=yeblu&show_icons=true&hide_border=true&layout=compact)
 
 ## Ferramentas e Tecnologias
-<img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" whidth="40" height="40" /><img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" whidth="40" height="40" /><img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" whidth="40" height="40"/>
+<img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" whidth="40" height="40"/>
 <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" whidth="40" height="40" />
           
           
