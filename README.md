@@ -5,7 +5,7 @@ Meu nome é Dhakson. Atualmente estou estudando no 2º Período em Anelise e Des
 
 <div>
 <a href="https://github.com/Dhakson>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaksoni&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhakson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
