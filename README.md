@@ -1,7 +1,7 @@
 # Olá!!! Sejam bem-vindos ao meu Repositório Pessoal 🖐
 
 ## Sobre mim 🚀
-Meu nome é Dhakson. Atualmente estou estudando no 2º Período em Anelise e Desenvolvimento de Sistema e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
+Meu nome é Dhakson. Atualmente estou estudando  Analise e Desenvolvimento de Sistema e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
 
 
 ![Dhakson's Stats](https://github-readme-stats.vercel.app/api?username=Dhakson&theme=yeblu&show_icons=true&hide_border=true&count_private=true)
