@@ -15,10 +15,12 @@ Atualmente, estou expandindo meu conhecimento em frameworks Java, banco de dados
 - **MySQL**: Banco de dados relacional para armazenamento de dados.
 - **Git/GitHub**: Controle de versão e colaboração em projetos.
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" /> 
+<div>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" />
+</div>
 
 ---
 
@@ -35,9 +37,17 @@ Abaixo estão algumas das minhas estatísticas no GitHub, refletindo meu envolvi
 
 Você pode me encontrar nas redes sociais ou entrar em contato por e-mail:
 
-- **Instagram**: [@seu-usuário](https://instagram.com/seu-usuário)
-- **LinkedIn**: [Dhakson Barbosa](https://www.linkedin.com/in/dhakson-barbosa/)
-- **Email**: [dhaksonbarbosa94@gmail.com](mailto:dhaksonbarbosa94@gmail.com)
+<div>
+  <a href="https://www.instagram.com/dhakson.b/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:dhaksonbarbosa94@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhakson-barbosa/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>   
+</div>
 
 ---
 
