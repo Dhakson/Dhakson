@@ -1,23 +1,45 @@
-# Olá!!! Sejam bem-vindos ao meu Repositório Pessoal 🖐
+# Olá! Bem-vindo ao meu Repositório Pessoal 👋
 
 ## Sobre mim 🚀
-Meu nome é Dhakson. Atualmente estou estudando  Analise e Desenvolvimento de Sistema e mais alguns cursos no ramo da programação para agregar mais ainda meu conhecimento. Tenho habilidades técnicas de Back-End, consigo me adaptar as linguagens e/ou FrameWorks que a empresa esteja procurando.
 
+Meu nome é **Dhakson Barbosa** e sou estudante de **Análise e Desenvolvimento de Sistemas**. Tenho focado meus estudos e projetos no desenvolvimento **Back-End**, com ênfase na linguagem **Java**. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para criar soluções eficientes e de alta performance.
 
-![Dhakson's Stats](https://github-readme-stats.vercel.app/api?username=Dhakson&theme=yeblu&show_icons=true&hide_border=true&count_private=true)
-![Dhakson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakson&theme=yeblu&show_icons=true&hide_border=true&layout=compact)
+Atualmente, estou expandindo meu conhecimento em frameworks Java, banco de dados e arquiteturas de software.
 
-## Ferramentas e Tecnologias
-<img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" whidth="40" height="40" /> <img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" whidth="40" height="40"/>
-<img loading ="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" whidth="40" height="40" />
-          
-          
+---
 
-## Contatos:
+## 🚀 Tecnologias que uso
 
-<div>
+- **Java**: Minha principal linguagem de programação para desenvolvimento Back-End.
+- **Spring Boot**: Framework para criação de APIs e microserviços.
+- **MySQL**: Banco de dados relacional para armazenamento de dados.
+- **Git/GitHub**: Controle de versão e colaboração em projetos.
 
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:dhaksonbarbosa94@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/dhakson-barbosa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" /> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" /> 
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+Abaixo estão algumas das minhas estatísticas no GitHub, refletindo meu envolvimento com a programação e minhas contribuições:
+
+![Estatísticas do Dhakson](https://github-readme-stats.vercel.app/api?username=Dhakson&theme=yeblu&show_icons=true&hide_border=true&count_private=true)
+![Principais Linguagens de Dhakson](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhakson&theme=yeblu&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+## 📬 Contatos
+
+Você pode me encontrar nas redes sociais ou entrar em contato por e-mail:
+
+- **Instagram**: [@seu-usuário](https://instagram.com/seu-usuário)
+- **LinkedIn**: [Dhakson Barbosa](https://www.linkedin.com/in/dhakson-barbosa/)
+- **Email**: [dhaksonbarbosa94@gmail.com](mailto:dhaksonbarbosa94@gmail.com)
+
+---
+
+**Desenvolvido por Dhakson Barbosa**  
+*Estudante de Análise e Desenvolvimento de Sistemas*  
