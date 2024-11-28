@@ -8,7 +8,7 @@ Atualmente, estou expandindo meu conhecimento em frameworks Java, banco de dados
 
 ---
 
-## 🚀 Tecnologias que uso
+## ♨ Tecnologias que uso
 
 - **Java**: Minha principal linguagem de programação para desenvolvimento Back-End.
 - **Spring Boot**: Framework para criação de APIs e microserviços.
